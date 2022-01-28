@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name kudox-parts)(type Legacy)(uri ${KIPRJMOD}/kudox-parts.lib)(options "")(descr ""))
+  (lib (name kudox_left-rescue)(type Legacy)(uri ${KIPRJMOD}/kudox_left-rescue.lib)(options "")(descr ""))
+  (lib (name kudox_right-rescue)(type Legacy)(uri ${KIPRJMOD}/kudox_right-rescue.lib)(options "")(descr ""))
+)
